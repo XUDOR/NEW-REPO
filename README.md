@@ -7,3 +7,6 @@
 This repository contains all of the notes taken by RODERICK SHOOLBRAID's for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
 [Roderick Shoolbraid GITHUB/XUDOR](https://github.com/XUDOR)
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
